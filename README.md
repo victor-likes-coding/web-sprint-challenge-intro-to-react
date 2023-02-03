@@ -12,10 +12,10 @@ You are not allowed to collaborate during the sprint challenge.
 
 ### Project Set Up
 
-- [ ] Create a forked copy of this project
-- [ ] Clone your OWN version of the repository (Not BloomTech's by mistake!)
-- [ ] Implement the project on the main branch, committing changes regularly
-- [ ] Push commits: `git push origin main`
+- [x] Create a forked copy of this project
+- [x] Clone your OWN version of the repository (Not BloomTech's by mistake!)
+- [x] Implement the project on the main branch, committing changes regularly
+- [x] Push commits: `git push origin main`
 
 ## Project Instructions
 
@@ -33,8 +33,8 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 
 Your finished project must include all of the following requirements:
 
-- [ ] Use the endpoint `[GET] https://swapi.dev/api/people/` (mocked in [msw](https://github.com/mswjs/msw)) to obtain characters.
-- [ ] Set the list of characters into state.
+- [x] Use the endpoint `[GET] https://swapi.dev/api/people/` (mocked in [msw](https://github.com/mswjs/msw)) to obtain characters.
+- [x] Set the list of characters into state.
 - [ ] Render your characters to the DOM:
 
   1. Build a React component named 'Character' to render an individual character.
